@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Khayal</h1>
-<h3 align="center">I'm a Front-End developer</h3>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cooper+Black&color=18BEF7&size=30&center=true&vCenter=true&width=1000&height=30&lines=I'm+a+Front-End+Developer;Always+try+to+learn+new+things)]
+
+- 🌱 I’m currently learning **Redux-Toolkit**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Xudiyef21/Portfolio](https://github.com/Xudiyef21/Portfolio)
+
+- 💬 Ask me about **Javascript/React**
 
 - 📫 How to reach me **xeyalxeyal068@gmail.com**
 
