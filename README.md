@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khayal</h1>
-<h3 align="center">A passionate frontend developer from Azerbaijani</h3>
+<h3 align="center">I'm a Front-End developer</h3>
+
+- 📫 How to reach me **xeyalxeyal068@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
