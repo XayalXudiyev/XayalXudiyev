@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Khayal</h1>
-<h3 align="center">I'm a MERN Stack developer</h3>
+<h3 align="center">I'm a Front-end developer</h3>
 
 - 🌱 I’m currently learning **Node JS**
 
 - 👨‍💻 All of my projects are available at [https://xayalxudiyev.github.io/My_portfolio/](https://xayalxudiyev.github.io/My_portfolio/)
 
-- 💬 Ask me about **Javascript/React/Node JS**
+- 💬 Ask me about **Javascript/React/Next JS/Node JS**
 
 - 📫 How to reach me **xeyalxeyal068@gmail.com**
 
