@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khayal</h1>
 <h3 align="center">I'm a Frontend developer</h3>
 
-- 🌱 I’m currently learning **Node JS**
+- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at [https://xayal-xudiyev-portfolio.vercel.app/](https://xayalxudiyev.github.io/My_portfolio/)
 
