@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Khayal</h1>
-<h3 align="center">I'm a Front-end developer</h3>
+<h3 align="center">I'm a Frontend developer</h3>
 
 - 🌱 I’m currently learning **Node JS**
 
 - 👨‍💻 All of my projects are available at [https://xayal-xudiyev-portfolio.vercel.app/](https://xayalxudiyev.github.io/My_portfolio/)
 
-- 💬 Ask me about **Javascript/React/Next JS/Node JS**
+- 💬 Ask me about **Javascript/React/Next JS**
 
 - 📫 How to reach me **xayal.xuduyev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/xudiyev_21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="xudiyev_21" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/xeyal-xudiyev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="xeyal-xudiyev" height="30" width="40" /></a>
-<a href="https://codesandbox.com/xudiyef21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="xudiyef21" height="30" width="40" /></a>
-<a href="https://instagram.com/xudiyef.21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xudiyef.21" height="30" width="40" /></a>
-<a href="https://discord.gg/Xeyal Xudiyev#4102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Xeyal Xudiyev#4102" height="30" width="40" /></a>
+<a href="https://twitter.com/xudiyev_21" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="xudiyev_21" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/xeyal-xudiyev" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="xeyal-xudiyev" height="30" width="40" /></a>
+<a href="https://codesandbox.com/xudiyef21" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="xudiyef21" height="30" width="40" /></a>
+<a href="https://instagram.com/xudiyef.21" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xudiyef.21" height="30" width="40" /></a>
+<a href="https://discord.gg/Xeyal Xudiyev#4102" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Xeyal Xudiyev#4102" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
