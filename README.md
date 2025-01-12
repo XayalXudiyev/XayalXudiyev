@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Node JS**
 
-- 👨‍💻 All of my projects are available at [https://xayalxudiyev.github.io/My_portfolio/](https://xayalxudiyev.github.io/My_portfolio/)
+- 👨‍💻 All of my projects are available at [https://xayal-xudiyev-portfolio.vercel.app/](https://xayalxudiyev.github.io/My_portfolio/)
 
 - 💬 Ask me about **Javascript/React/Next JS/Node JS**
 
